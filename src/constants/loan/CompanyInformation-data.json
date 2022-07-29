@@ -1,0 +1,66 @@
+[
+  {
+      "id":  "",
+      "active": true,
+      "loanLimitRequestId":  "",
+      "fieldName": "Total Registered Outlet Active",
+      "fieldValue": "Type here",
+      "position": 1
+    },
+    {
+      "id":  "",
+      "active": true,
+      "loanLimitRequestId":  "",
+      "fieldName": "Total Warehouse",
+      "fieldValue": "Type here",
+      "position": 1
+    },
+    {
+      "id":  "",
+      "active": true,
+      "loanLimitRequestId":  "",
+      "fieldName": "Total Number of Employee",
+      "fieldValue": "Type here",
+      "position": 1
+    },
+    {
+      "id":  "",
+      "active": true,
+      "loanLimitRequestId":  "",
+      "fieldName": "Total Salesman",
+      "fieldValue": "Type here",
+      "position": 1
+    },
+    {
+      "id": "",
+      "active": true,
+      "loanLimitRequestId": "",
+      "fieldName": "Sales Per Month",
+      "fieldValue": "Type here",
+      "position": 1
+    },
+    {
+      "id": "",
+      "active": true,
+      "loanLimitRequestId": "",
+      "fieldName": "Total Delivery Car",
+      "fieldValue": "Type here",
+      "position": 1
+    },
+    {
+      "id": "",
+      "active": true,
+      "loanLimitRequestId": "",
+      "fieldName": "Top From Principles",
+      "fieldValue": "Type here",
+      "position": 1
+    },
+    {
+      "id": "",
+      "active": true,
+      "loanLimitRequestId": "",
+      "fieldName": "Top To Buyers",
+      "fieldValue": "Type here",
+      "position": 1
+    }
+]

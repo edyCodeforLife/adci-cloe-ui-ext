@@ -1,0 +1,1 @@
+export const SV_GET_TOKEN = "/api/login/token";

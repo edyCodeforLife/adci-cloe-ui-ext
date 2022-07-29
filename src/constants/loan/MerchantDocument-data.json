@@ -1,0 +1,45 @@
+[
+    {
+        "documentGroup": "Laporan Keuangan 3 Tahun Terakhir",
+        "documentName": "",
+        "documentYear": "",
+        "documentDesc": "",
+        "position": 1
+    },
+    {
+        "documentGroup": "Bank Statement Ops 12 Bulan Terakhir",
+        "documentName": "",
+        "documentYear": "",
+        "documentDesc": "",
+        "position": 1
+    },
+    {
+        "documentGroup": "Sell Out Report to Distributor 1 tahun terakhir",
+        "documentName": "",
+        "documentYear": null,
+        "documentDesc": null,
+        "documentUrl": null,
+        "position": 1
+    },
+    {
+        "documentGroup": "Copy Contract Kerjasama Dengan Supplier",
+        "documentName": "",
+        "documentYear": null,
+        "documentDesc": null,
+        "position": 1
+    },
+    {
+        "documentGroup": "Sample Invoice to Customer",
+        "documentName": "",
+        "documentYear": null,
+        "documentDesc": null,
+        "position": 1
+    },
+    {
+        "documentGroup": "Pengajuan Credit Limit",
+        "documentName": "",
+        "documentYear": null,
+        "documentDesc": null,
+        "position": 1
+    }
+]

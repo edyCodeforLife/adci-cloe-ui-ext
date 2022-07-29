@@ -1,0 +1,35 @@
+.display-inline {
+    display: inline-flex;
+    width: 100%
+}
+
+.grid-display {
+    display: grid;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.alignText{
+    align-self: center;
+}
+
+.stepper{
+    background-color: #ffb0b0;
+    border-radius: 50%;
+}
+
+.stepper.completed{
+    background-color: #840000;
+    border-radius: 50%;
+}
+
+.half-field{
+    width: 50%;
+}
+
+.tidy-margin{
+    margin-bottom: 20px;
+}
+
